@@ -32,12 +32,12 @@
 <body>
     <div class="card">
         <div class="name">Mohamed Shahum Shakir</div>
-        <div class="title">Web Developer</div>
+        <div class="title"> Photographer </div>
         <div class="contact-info">
             <p>Email: shahum.shakir1506@gmail.com</p>
             <p>Phone: 9137779</p>
-            <p>Website: www.shahumweb.com</p>
-            <p>Address: 123 Main Street, City, State</p>
+            <p>Website: www.blackshutter.com</p>
+            <p>Address: Blackshutter, Gn Fuvahmulah </p>
         </div>
     </div>
 </body>
